@@ -8,12 +8,7 @@ This Java program demonstrates the use of interfaces, polymorphism, and enumerat
 
 The program consists of two main parts:
 
-1. Shape Calculator
-2. Employee Salary Calculator
-
-### Shape Calculator
-
-The `Shape` interface defines a method `calculateArea()`. The `Circle` and `Rectangle` classes implement this interface, each providing their own implementation of `calculateArea()`. This is an example of polymorphism. The `ShapeType` enumeration lists the types of shapes. The `ShapeCalculatorDriver` class uses these classes and interfaces to create objects and calculate their areas.
+> Employee Salary Calculator
 
 ### Employee Salary Calculator
 
